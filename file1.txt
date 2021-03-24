@@ -1,1 +1,3 @@
 hello first edit in file 1
+
+	this is second time edit in cloned file
