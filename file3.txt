@@ -1,0 +1,3 @@
+hello I made cloned dir
+
+this file is for checked modified file
